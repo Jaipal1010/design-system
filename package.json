@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "name": "design-system",
+    "version": "0.1.0",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "55455033-b1ab-4263-9e47-a6e6d0faccce"
+    },
+    "dependencies": {
+        "apexcharts": "^3.26.3",
+        "nerdpack-design-system": "file:nerdpack-design-system-1.1.6.tgz",
+        "node-sass": "^6.0.1",
+        "prop-types": "^15.6.2",
+        "react": "^17.0.2",
+        "react-apexcharts": "^1.3.9",
+        "react-dom": "^17.0.2"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}

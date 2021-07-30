@@ -1,0 +1,7 @@
+{
+  "schemaType": "LAUNCHER",
+  "id": "design-system-launcher",
+  "displayName": "DesignSystemLauncher",
+  "description": "Describe me",
+  "rootNerdletId": "design-system-nerdlet"
+}

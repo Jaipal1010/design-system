@@ -23,3 +23,5 @@ nr1 create
 
 
 set path to  PATH="$PATH:/C/Program Files/newrelic-cli/bin" to access nr1 cli
+
+install - npm install -D babel-loader @babel/core @babel/preset-env webpack
